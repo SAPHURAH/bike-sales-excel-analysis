@@ -163,7 +163,7 @@ The analysis revealed several notable patterns:
 ##  Dashboard
 
 The final Excel dashboard summarizes the analysis using charts and interactive filtering.
-
+![Bike Sales Dashboard](Bike_Sales_Dashboard.png)
 The dashboard allows users to explore purchasing behavior and compare customer groups across different demographic and behavioral characteristics.
 
 ### Dashboard Components
